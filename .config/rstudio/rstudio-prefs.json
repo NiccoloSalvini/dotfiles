@@ -1,0 +1,49 @@
+{
+    "jobs_tab_visibility": "shown",
+    "initial_working_directory": "~/Desktop",
+    "continue_comments_on_newline": true,
+    "show_indent_guides": true,
+    "highlight_r_function_calls": true,
+    "rainbow_parentheses": true,
+    "show_help_tooltip_on_idle": true,
+    "code_completion_delay": 50,
+    "default_encoding": "UTF-8",
+    "editor_theme": "Vibrant Ink",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet2",
+            "Console",
+            "TabSet1"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "python_type": "system",
+    "python_version": "3.8.10",
+    "python_path": "~/.pyenv/versions/3.8.10/bin/python",
+    "pdf_previewer": "system",
+    "posix_terminal_shell": "zsh",
+    "default_project_location": "~/Desktop/r_projects",
+    "save_files_before_build": true,
+    "show_hidden_files": true
+}

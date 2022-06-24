@@ -1,0 +1,9 @@
+VER=-11.3.0
+CC=gcc$(VER)
+CXX=g++$(VER)
+CXX11=g++$(VER)
+CXX14=g++$(VER)
+CXX17=g++$(VER)
+CFLAGS=-mtune=native -g -O2 -Wall -pedantic -Wconversion
+CXXFLAGS=-mtune=native -g -O2 -Wall -pedantic -Wconversion
+FLIBS=-L/usr/local/Cellar/gcc/8.2.0/lib/gcc/8
