@@ -30,7 +30,7 @@ _/etc/rstudio/rstudio-prefs.json_
 {
     "show_user_home_page": "always"
 }
-
+```
 
 ## snippets
 
